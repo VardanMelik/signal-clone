@@ -2,4 +2,4 @@
 signal clone
 
 1) React Native
-20 Expo
+2) Expo
